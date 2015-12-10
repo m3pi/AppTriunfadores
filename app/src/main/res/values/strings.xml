@@ -2,7 +2,14 @@
     <string name="app_name">AppTriunfadores</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="lbl_solicitudes_search_loader">Descargando Solicitudes&#8230;</string>
+    <string name="lbl_solicitudes_not_found">No hay Solicitudes.</string>
+    <string name="lbl_solicitudes_downloaded">Solicitudes descargadas exitosamente.</string>
 
 <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
 </resources>
