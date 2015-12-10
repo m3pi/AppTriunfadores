@@ -24,7 +24,8 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="60dp"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:onClick="openMain"/>
 
     <TextView
         android:layout_width="wrap_content"
